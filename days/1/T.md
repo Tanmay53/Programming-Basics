@@ -2,8 +2,15 @@
 
 ## Objects
 
+Let's check out what is the meaning of Object in Hindi.
+It is "VASTU".
+
 Objects can be designed to model real-world things in software.
 Objects group together details.
+
+Apne aas paas dekho, kitni vastuen hai. Ab ham jab inke baare mein software mein likhenge to jis chheez ka istemal karenge use Object kahenge.
+
+Vastu(Object) hame kai saari jankariyon ko ikattha karne mein madad karti hai.
 
 ## Abstraction
 
